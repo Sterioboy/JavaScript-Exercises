@@ -1,0 +1,18 @@
+body {
+    font-family: 'Inconsolata', monospace;
+    background-color: #fffeb3;
+    text-align: center;
+}
+
+#output {
+    display: flex;
+    justify-content: center;  
+}
+
+li {
+    color: #fb2e01;
+}
+
+p {
+    color: #666547;
+}
